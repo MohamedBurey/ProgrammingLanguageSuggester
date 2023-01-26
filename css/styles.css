@@ -1,5 +1,25 @@
 h1 {
   margin-top: 1px;
   font-size: 50px;
-  color: red;
+  color: black;
 }
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: purple;
+}
+
+h4 {
+  color: yellow;
+}
+
+
+
+ body {
+ background-color: gray;
+ }
+
+ 
